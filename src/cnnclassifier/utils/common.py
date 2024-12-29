@@ -59,8 +59,7 @@ def save_json(path: Path, data :dict):
     """
     with open(path,"w") as f :
         json.dump(data,f, indent=4)
-l
-    logger.info(f"json file saved at : {path}")
+        logger.info(f"json file saved at : {path}")
 
 @ensure_annotations
 def load_json(path: Path) -> ConfigBox:
