@@ -6,10 +6,13 @@ src/cnnClassifier.egg-info/dependency_links.txt
 src/cnnClassifier.egg-info/top_level.txt
 src/cnnclassifier/__init__.py
 src/cnnclassifier/components/__init__.py
+src/cnnclassifier/components/data_ingestion.py
 src/cnnclassifier/config/__init__.py
 src/cnnclassifier/config/configuration.py
 src/cnnclassifier/constants/__init__.py
 src/cnnclassifier/entity/__init__.py
+src/cnnclassifier/entity/config_entity.py
 src/cnnclassifier/pipeline/__init__.py
+src/cnnclassifier/pipeline/stage_01_data_ingestion.py
 src/cnnclassifier/utils/__init__.py
 src/cnnclassifier/utils/common.py
