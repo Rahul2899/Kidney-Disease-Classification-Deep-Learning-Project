@@ -6,7 +6,7 @@ import logging
 logging.basicConfig(level=logging.INFO, format='[%(asctime)s]: %(message)s:')
 
 #writing project name here 
-project_name = 'cnnClassifier'
+project_name = 'cnnclassifier'
 
 #List of the files and folder 
 list_of_files = [
