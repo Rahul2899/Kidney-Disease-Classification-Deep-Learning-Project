@@ -1,8 +1,13 @@
-Metadata-Version: 2.1
-Name: cnnClassifier
+Metadata-Version: 2.2
+Name: cnnclassifier
 Version: 0.0.0
 Summary: A small python package for CNN app
 Home-page: https://github.com/Rahul2899/Kidney-Disease-Classification-Deep-Learning-Project
 Author: Rahul2899
 Author-email: ramrajerahul2@gmail.com
 Project-URL: Bug Tracker, https://github.com/Rahul2899/Kidney-Disease-Classification-Deep-Learning-Project/issues
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: project-url
+Dynamic: summary
